@@ -1,0 +1,4 @@
+*.tar
+__pycache__/
+saved_images/
+data/*
